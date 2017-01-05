@@ -1,0 +1,9 @@
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\bin\Debug\PhsE1.exe.config
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\bin\Debug\PhsE1.exe
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\bin\Debug\PhsE1.pdb
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\obj\Debug\PhsE1.csprojResolveAssemblyReference.cache
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\obj\Debug\PhsE1.Form1.resources
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\obj\Debug\PhsE1.Properties.Resources.resources
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\obj\Debug\PhsE1.csproj.GenerateResource.Cache
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\obj\Debug\PhsE1.exe
+c:\users\apfrogner\documents\visual studio 2013\Projects\PhsE1\PhsE1\obj\Debug\PhsE1.pdb
